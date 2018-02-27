@@ -5,9 +5,10 @@
 }
 h6{
     line-height: 32px;
+    margin-left: 72px;
 }
 #imageaboutus img{
-width: 450px;
+width: 432px;
 height: 250px;
 }
 
@@ -100,7 +101,7 @@ button{
 }
 .page-footer {
     padding-top: 1px;
-    width: 101.5%;
+    width:  1359px;
     background: linear-gradient(#208dc1eb, #69696900);
     margin-left: -0.7%;
     height: 100%;
@@ -132,9 +133,9 @@ button{
 }
 .light, .page-footer .footer-copyright {
     font-weight: 900;
-    margin-top: 2.6%;
-    width: 1350px;
-    margin-left: -22%;
+margin-top: 1.8%;
+width: 1364px;
+margin-left: -22%;
 }
 ul>h5{
     color: #242724eb;
@@ -184,10 +185,10 @@ ul>h5{
   }
   .iconsoc{
     float: right;
-    margin-right: -302px;
+    margin-right: -194px;
     margin-top: 13px;
   }
-  }
+  
 .styliukas{
     width: 250px;
     height: 85px;
@@ -248,8 +249,7 @@ font-size: 16px;
 .antralinija{
     margin-top: 14px;
 }
-a 
-{
+a {
     color: #039be5;
     text-decoration: none;
     font-size: 17px;

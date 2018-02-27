@@ -41,7 +41,7 @@ span{
     margin-top: 0px;
 }
 hr{
-    width: 1369px;
+    width: 1353px;
     margin-left: -25%;
     margin-top: 52px;
 }
@@ -78,14 +78,22 @@ a
 .VideoConatiner { 
     position: absolute;
     top: 50%;
-    left: 50%;
-    min-width: 100%;
-    min-height: 40%;
+    left: 10%;
+    min-width: 200px;
+    min-height: 70px;
     /*max-height: 40%;*/
-    width: 100%;
+    width: 50%;
     height: auto;
     z-index: -100;
     transform: translateX(-50%) translateY(-50%);
     background-size: cover;
     transition: 1s opacity;
-}    
+}  
+video {
+    display: inline-block;
+    vertical-align: baseline;
+    margin-top: 12%;
+    width: 900px;
+    height: 600px;
+    margin-left: 16%;
+}

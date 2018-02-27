@@ -1,15 +1,3 @@
-.styliukas{
-    width: 250px;
-    height: 85px;
-    border:1px solid  #55514e;
-    border-radius: 2px;
-    margin-left: 10px;
-    position: relative;
-    top: -28px;
-    padding: 12px;
-    background-color: #7e7e84c9;
-    font-size: 10px;
-}
 .col.s12.aprasas{
     height: 63px;
     color: white;
@@ -36,9 +24,9 @@ span{
 }
 .col.s12.meniu{
     width: 100%;
-    height: 117px;
-    padding-top: 0px;
-    margin-top: 0px;
+height: 117px;
+padding-top: 25px;
+margin-top: 7px;
 }
 hr{
     width: 1369px;
@@ -57,6 +45,8 @@ font-size: 16px;
 }
 .antralinija{
     margin-top: 14px;
+    width: 1339px;
+    margin-left: -220px;
 }
 a 
 {
@@ -65,13 +55,4 @@ a
     font-size: 17px;
     font-family: monospace;
     font-weight: 900;
-}
-.carts img{
-    position: relative;
-    top: 40px;
-    right: -48px;
-}
-.service>img{
-    height: 20px;
-    width: 20px;
 }

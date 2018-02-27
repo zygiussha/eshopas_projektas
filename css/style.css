@@ -187,7 +187,7 @@ ul>h5{
     margin-right: -302px;
     margin-top: 13px;
   }
-  }
+  
 .styliukas{
     width: 250px;
     height: 85px;
@@ -200,21 +200,23 @@ ul>h5{
     background-color: #7e7e84c9;
     font-size: 10px;
 }
+
 .col.s12.aprasas{
     height: 63px;
-    color: white;
+    color:white;
     background-color: #5a5a5c;
     width: 100%;
 }
 .aprasas ul li{
     display: inline;
     margin-left: 8px;
+    color: gray;
 }
 .aprasas>ul{
     padding-left: 196px;
 }
 span{
-    color: black;
+    color: rgb(236, 229, 229);
     margin-left: 5px;
 }
 .service  ul  li {

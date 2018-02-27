@@ -304,5 +304,12 @@ video {
     font-size: 12px;
     background-color:white;
     color: black;
-    padding: 0;
-} 
+    padding: 0;    
+}
+#pagesContainer .col img {
+    height: 230px;
+    width: 280px;
+    margin-top: 40px;
+}
+
+

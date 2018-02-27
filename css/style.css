@@ -102,18 +102,19 @@ button{
 .page-footer {
     padding-top: 1px;
     width:  1359px;
-    background: linear-gradient(#208dc1eb, #69696900);
+    background: linear-gradient(#808486eb, #dfd8d800);
     margin-left: -0.7%;
     height: 100%;
 }
 .other{
     float: right;
-    margin-top: -45%;
+
+    margin-top: -23%;
     margin-left: 11%
 }
 .row .col.offset-l2 {
     margin-left: 48%;
-    margin-top: -45%;
+    margin-top: -43%;
 }
 .supp{
     float: left;
@@ -149,37 +150,40 @@ ul>h5{
     width: 35px;
     text-align: center;
     text-decoration: none;
-    margin: -1px 8px;
+    margin: -1px 1px;
     border-radius: 33%;
 }
   
-  .fa-facebook {
-    background: #3B5998;
+  .fa-facebook img{
+    width: 26px;
+    background:#3b5998;
     color: white;
   }
   
-  .fa-twitter {
-    background: #55ACEE;
+  .fa-twitter img{
+    width: 26px;
     color: white;
   }
   
-  .fa-google {
-    background: #dd4b39;
+  .fa-google img{
+    width: 26px;
     color: white;
   }
   
-  .fa-linkedin {
+  .fa-linkedin img{
+      width: 26px;
     background: #007bb5;
     color: white;
   }
   
-  .fa-youtube {
-    background: #bb0000;
+  .fa-youtube img{
+      width: 26px;
+   
     color: white;
   }
   
-  .fa-instagram {
-    background: #125688;
+  .fa-instagram img{
+      width: 26px;
     color: white;
     margin-right: -6%;
   }

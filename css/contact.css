@@ -4,9 +4,9 @@
 }
 .pirmafoto>img{
     width: 1142px;
-    height: 301px;
+    height: 451px;
     margin-left: 108px;
-    margin-top: 201px;
+    margin-top: 44px;
 }
 .pirmafoto .infoto{
     color: #a79b9b;
@@ -137,11 +137,12 @@ span{
 }
 .texts>.izanga{
     color: #441327e6;
-    float: right;
-    margin-right: 103px;
-    margin-top: -146px;
-    font-size: 17px;
-    font-family: monospace;
+float: right;
+margin-right: 58px;
+margin-top: -146px;
+font-size: 16px;
+font-family: monospace;
+width: 674px;
 }
 .texts>span{
     color: #0d150d;
@@ -157,6 +158,7 @@ span{
     height: 204px;
     background-color: #F2F2F2;
     padding: 12px;
+    margin-top: 11px;
 }
 .vardas{
     color: #736d6a;
@@ -177,3 +179,231 @@ span{
 .tarpas{
     margin-top: 52px;
 }
+
+.page-footer {
+    padding-top: 1px;
+width: 1359px;
+background: linear-gradient(#208dc1eb, #69696900);
+margin-left: -0.7%;
+height: 100%;
+position: relative;
+top: 229px;
+}
+.other{
+    float: right;
+    margin-top: -45%;
+    margin-left: 11%
+}
+.row .col.offset-l2 {
+    margin-left: 48%;
+    margin-top: -45%;
+}
+.supp{
+    float: left;
+    margin-top: 0.6px;
+    margin-left: 15%;
+}
+.white-text1{
+    width: 211px;
+}
+.white-textlegal{
+    margin-top: 91.3%;
+position: relative;
+top: -27px;
+left: 35px;
+}
+.white-textopt{
+    float: right;
+    margin-top: 323%;
+    margin-left: -2%;
+    position: relative;
+    left: 491%;
+    top: -95px;
+}
+.light, .page-footer .footer-copyright {
+    font-weight: 900;
+margin-top: 1.8%;
+width: 1364px;
+margin-left: -22%;
+}
+ul>h5{
+    color: #242724eb;
+}
+.white-textblack{
+    color:#242724eb;
+}
+.fa {
+    padding: 5px;
+    font-size: 22px;
+    width: 35px;
+    text-align: center;
+    text-decoration: none;
+    margin: -1px 8px;
+    border-radius: 33%;
+}
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+  .fa-google {
+    background: #dd4b39;
+    color: white;
+  }
+  
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+  
+  .fa-instagram {
+    background: #125688;
+    color: white;
+    margin-right: -6%;
+  }
+  .iconsoc{
+    float: right;
+    margin-right: -194px;
+    margin-top: 13px;
+  }
+  .page-footer li{
+      color: #00000073;
+  }
+  .menius> .starter{
+      color: red;
+      top: 0px;
+  }
+
+
+   /*naujas header*/
+   
+.col.s12.aprasas
+    {
+    height: 63px;
+    color: white;
+    background-color: #5a5a5c;
+    width: 100%;
+}
+.aprasas ul li {
+    display: inline;
+    margin-left: 8px;
+    color: gray;
+}
+.service
+ {
+    float: right;
+    margin-top: -34px;
+}
+.col.s12.meniu {
+    width: 100%;
+    padding-top: 0px;
+    margin-top: 0px;
+    background-color: white;
+    z-index: 1;
+}
+.meniu ul {
+    color: black;
+    font-size: 20px;
+    text-align: center;
+}
+.meniu>ul>li {
+    margin-left: 39px;
+    font-family: Arial Black;
+    font-size: 16px;
+    display: inline;
+    color: #00000073;
+}
+.carts img {
+    position: relative;
+    top: 40px;
+    right: -48px;
+}
+hr {
+    margin-top: 52px;
+    MARGIN-LEFT: -3px;
+    width: 100%;
+}
+.menius {
+    margin-left: 207px;
+}
+a {
+    color: #039be5;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: monospace;
+    font-weight: 900;
+    margin-left: 2px;
+    padding: 3px;
+}
+.antralinija {
+    margin-top: 14px;
+    margin-left: -205px;
+    width: 116.9%;
+}
+.row {
+    margin-bottom: 0px;
+}
+ul:not(.browser-default) {
+    padding-left: 0;
+    list-style-type: none;
+}
+span{
+    color: rgb(236, 229, 229);
+    margin-left: 4px;
+    position: relative;
+    top: 0px;
+    word-spacing: 1px;
+    font-size: 14px;
+}
+.menius> .starter {
+    color: rgb(236, 229, 229);
+    top: 0px;
+    left: -2px;
+    font-size: 15px;
+}
+.menius> .starter1{
+    font-size: 15px;
+}
+   /*Header pabaiga*/
+
+   .dezepirmas> .chatas1{
+    color: #615252d1;
+    margin-left: 74px;
+    position: relative;
+    top: -46px;
+    word-spacing: 5px;
+   }
+
+iframe{
+    width: 408px;
+    height: 207px;
+    MARGIN-LEFT: 107px;
+    margin-top: 9px;
+}
+
+
+.fixedHeader .meniu {
+    position: fixed;
+}
+.emblemas{
+    width: 241px;
+    height: 203px;
+    z-index: 1;
+    position: fixed;
+    top: 76px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL0TYGw8nzaoCTarq8rLwXSnxcdJrkIU0BPveBjiR2Ob4md30Cjg);
+    left: 19px;
+    border: 3px solid #c6cac8;
+}
+

@@ -7,8 +7,9 @@ h6{
     line-height: 32px;
 }
 #imageaboutus img{
-width: 100%;
-}
+    width: 432px;
+    height: 250px;
+    }
 
 .row{
     margin-bottom: 0px;
@@ -41,7 +42,7 @@ width: 100%;
 }
 .col.s12.info{
     height: 250px;
-    background-color:rgb(206, 205, 203);;
+    background-color:rgb(206, 205, 203);
 }
 .brand-logo.center>img{
     width: 70px;
@@ -192,7 +193,6 @@ ul>h5{
   }
   
   .fa-instagram img{
-
       width: 26px;
     color: white;
     margin-right: -6%;
@@ -243,24 +243,24 @@ span{
 }
 .col.s12.meniu{
     width: 100%;
-    height: 117px;
     padding-top: 0px;
     margin-top: 0px;
+    background-color: white;
+    z-index: 1;
 }
 hr{
-    width: 1353px;
-    margin-left: -25%;
     margin-top: 52px;
 }
 .meniu ul {
     color: black;
-font-size: 20px;
-margin-left: 102px;
+    font-size: 20px;
+    text-align: center;
 }
 .meniu>ul>li{
     margin-left: 39px;
-font-family: Arial Black;
-font-size: 16px;
+    font-family: Arial Black;
+    font-size: 16px;
+    display: inline;
 }
 .antralinija{
     margin-top: 14px;
@@ -322,4 +322,35 @@ video {
     margin-top: 40px;
 }
 
+.fixedHeader .meniu {
+    position: fixed;
+}
+.menius{        
+    margin-left: 213px;
+}
 
+.emblemas{
+    width: 241px;
+    height: 203px;
+    z-index: 1;
+    position: fixed;
+    top: 76px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL0TYGw8nzaoCTarq8rLwXSnxcdJrkIU0BPveBjiR2Ob4md30Cjg);
+    left: 19px;
+    border: 3px solid #c6cac8;
+}
+.paketas{
+    background-color: white;
+height: 50px;
+width: 124px;
+border: 1px solid black;
+padding: 11px;
+text-align: center;
+float: left;
+margin-left: 41%;
+margin-top: -35px;
+}
+.col.s3.piesinys{
+    background-color: forestgreen;
+    height: 111px;
+}

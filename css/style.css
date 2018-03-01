@@ -24,6 +24,13 @@ h6{
     height: 75px;
     background-color: #f1efd6;
 }
+#bitcoinas{
+    width: 282px;
+    height: 82px;
+    position: relative;
+    top: 48px;
+    right: -154px;
+}
 .col.s3{
     height: 325px;
     background-color: #e6dd7100;
@@ -302,6 +309,8 @@ video {
     width: 900px;
     height: 600px;
     margin-left: 16%;
+    position: relative;
+    top: -179px;
 }
 
 #pagesContainer .col {

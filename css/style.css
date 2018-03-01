@@ -5,16 +5,20 @@
 }
 h6{
     line-height: 32px;
-    margin-left: 72px;
 }
 #imageaboutus img{
-width: 432px;
-height: 250px;
-}
-
+    width: 432px;
+    height: 250px;
+    }
 
 .row{
     margin-bottom: 0px;
+}
+.col.s8{
+    text-align: justify;
+    width: 65%;
+    font-family: 'Open Sans';
+
 }
 .col.s12.menu{
     height: 75px;
@@ -38,7 +42,7 @@ height: 250px;
 }
 .col.s12.info{
     height: 250px;
-    background-color: #94b92259;
+    background-color:rgb(206, 205, 203);
 }
 .brand-logo.center>img{
     width: 70px;
@@ -101,9 +105,7 @@ button{
 }
 .page-footer {
     padding-top: 1px;
-    width:  1359px;
-    background: linear-gradient(#808486eb, #dfd8d800);
-    margin-left: -0.7%;
+    background: rgb(223, 221, 219);
     height: 100%;
 }
 .other{
@@ -123,23 +125,29 @@ button{
 }
 .white-text1{
     width: 211px;
+    cursor: pointer;
 }
+
 .white-textlegal{
-    margin-top: 91.3%;
+    cursor: pointer;
 }
 .white-textopt{
-    float: right;
-    margin-top: 338%;
-    margin-left: -1%;
+    cursor: pointer;
+    margin-right: 10%;
 }
 .light, .page-footer .footer-copyright {
     font-weight: 900;
 margin-top: 1.8%;
 width: 1364px;
 margin-left: -22%;
+background: #cecdcd;
+color: black;
 }
 ul>h5{
     color: #242724eb;
+}
+.supp{
+    cursor: pointer;
 }
 .white-textblack{
     color:#242724eb;
@@ -153,7 +161,9 @@ ul>h5{
     margin: -1px 1px;
     border-radius: 33%;
 }
-  
+.iconsoc{
+    position: absolute;
+} 
   .fa-facebook img{
     width: 26px;
     background:#3b5998;
@@ -177,7 +187,7 @@ ul>h5{
   }
   
   .fa-youtube img{
-      width: 26px;
+      width: 28px;
    
     color: white;
   }

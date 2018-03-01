@@ -1,0 +1,321 @@
+.emblemas{
+    width: 241px;
+    height: 203px;
+    z-index: 1;
+    position: fixed;
+    top: 76px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL0TYGw8nzaoCTarq8rLwXSnxcdJrkIU0BPveBjiR2Ob4md30Cjg);
+    left: 19px;
+    border: 3px solid #c6cac8;
+}
+.col.s6.daiktas1>img{
+    position: relative;
+    height: 384px;
+    top: 222px;
+}
+.daiktas1{
+    color: red;
+}
+.col.s6.apie1{
+    position: relative;
+    top: 203px;
+}
+.apie1>h4{
+    font-size: 14px;
+    font-weight: 600;
+    margin: 0;
+    line-height: 30px;
+    letter-spacing: 0.05em;
+    color: #5a5a5c;
+    padding: 20px 0;
+}
+
+.apie1>b{
+    font-weight: bold;
+    margin-left: 49px;
+    font-size: 24px;
+}
+.apie1>.kaina1{
+    font-size: 22px;
+    color: #666666;
+    text-decoration-line: line-through;
+}
+.apie1>.kainaInfo1{
+    color: #4bc371;
+    margin-left: 50px;
+}
+.apie1>.tekstas1{
+    margin: 0;
+    clear: both;
+    padding: 0 25px;
+    font-size: 12px;
+    letter-spacing: 0.01em;
+    color: #b7b7b7;
+    line-height: 24px;
+}
+.apie1>button{
+    background-color: #4bc371;
+    width: 100%;
+    color: #ffffff;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-size: 12px;
+    font-weight: 600;
+    display: inline-block;
+    overflow: hidden;
+    height: 50px;
+    padding: 0px!important;
+    margin-bottom: 3px;
+    margin-left: 23px;
+}
+.line1{
+    color: #000;
+    width: 504px;
+    position: relative;
+    left: 110px;
+}
+.starter1{
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 45px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: rgb(236, 229, 229);
+}
+.uncheck{
+    color: #20da5b;
+    word-spacing: -26px;
+    margin-left: 18px;
+}
+
+.col.s6 {
+    height: 715px;
+    background-color: #b7b92f00;
+}
+.page-footer{
+position: relative;
+top: 492px;
+}
+.tabs>.tabas1{
+    color: red;
+}
+#test1{
+    color: #0a0a08;
+    position: relative;
+    left: 11px;
+    background-color: white;
+    top: 397px;
+    height: 457px;
+    border: 1px solid #f3f3f3;
+}
+.tabs {
+    position: relative;
+    height: 52px;
+    width: 16%;
+    white-space: nowrap;
+    padding: 2px;
+    top: 399px;
+    float: left;
+}
+.tabs .tab a {
+    color: rgba(14, 12, 12, 0.7);
+    display: block;
+    width: 100%;
+    height: 100%;
+    padding: 0 24px;
+    font-size: 14px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    transition: color .28s ease;
+    border: 1px solid #f5ecec;
+    border-top-left-radius: 22px;
+    border-top-right-radius: 22px;
+}
+.col.s6>.pirmasB{
+    background-color: fuchsia;
+    height: 50px;
+}
+.paragraf1{
+    color: black;
+    margin: 14px 5px 10px;
+    line-height: 23px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+}
+.param1{
+    float: left;
+    margin-left: 0px;
+}
+.paramName{
+    font-weight: bold;
+    margin-left: 4px;
+    line-height: 24px;
+}
+.pabaiga1{
+    color: #615d5d;
+    float: left;
+    font-style: italic;
+    font-size: 11px;
+    list-style: none;
+    margin-left: -8px;
+}
+.start{
+    color: green;
+    height: 33px;
+    background-color: #f2f2f2;
+    padding: 5px 15px 5px 15px;
+}
+.kaire1{
+    color: black;
+    width: 222px;
+    margin-top: -13px;
+    padding: 13px;
+}
+.desine{
+    float: right;
+    margin-top: -138px;
+    margin-right: 1%;
+    width: 227px;
+}
+.start>img{
+    width: 23px;
+    height: 19px;
+}
+.lentele1>img{
+    width: 451px;
+    height: 88px;
+}
+.lentele1{
+    width: 453px;
+    height: 249px;
+    background-color: #f2f2f2;
+    margin-top: 10px;
+}
+.col.s12.katalogas{
+    height: 500px;
+    position: relative;
+    left: -169px;
+    top: 449px;
+    width: 1307px;
+}
+.lentele1 b{
+    color: green;
+}
+.styliukas{
+    width: 250px;
+    height: 85px;
+    border:1px solid  #55514e;
+    border-radius: 2px;
+    margin-left: 10px;
+    position: relative;
+    top: -28px;
+    padding: 12px;
+    background-color: #7e7e84c9;
+    font-size: 10px;
+}
+.lastline12{
+    margin-left: -1px;
+    width: 100%;
+    background-color: #a2a296;
+}
+.vardasa{
+    border: 1px solid #e6e6e6;
+    background-color: #ffffff;
+    font-size: 22px;
+    letter-spacing: 0.2em;
+    font-weight: 400;
+    text-transform: uppercase;
+    padding: 14px;
+    width: 400px;
+    text-align: center;
+    margin-top: -38px;
+    margin-left: 35%;
+    border: 1px solid #a2a296;
+}
+.katalogas>.kata{
+    color: rebeccapurple;
+    margin-top: 18px;
+}
+.kata>img{
+    width: 256px;
+    margin-left: 20px;
+    border: 2px solid slategray;
+}
+.kata>a{
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+    margin-left: 23px;
+}
+.kata>input{
+    background-color: #4bc371;
+    color: #ffffff;
+    padding: 5px 10px 10px;
+    border: 1px solid #4db16d;
+    font-family: 'Cassannet Regular', Montserrat, arial, serif!important;
+    text-transform: uppercase;
+    box-shadow: inset 0 -3px 0 #29A150;
+    font-size: 14px;
+    width: 120px;
+    margin-left: 84px;;
+}
+form{
+    height: 62px;
+    margin-left: 50px;
+    padding: 13px;
+    position: relative;
+    left: -16px;
+    background-color: #30B159;
+    box-shadow: inset 0 -2px 0 #1C6332;
+    border: 1px solid #1C6332;
+    cursor: pointer;
+    width: 222px;
+    border-radius: 11px;
+    top: 14px;
+}
+.kata .submitas1{
+    background-color: #30B159;
+    color: #ffffff;
+    padding: 5px 10px 10px;
+    border: #30B159;
+    font-family: 'Cassannet Regular', Montserrat, arial, serif!important;
+    text-transform: uppercase;
+    font-size: 14px;
+    position: relative;
+    left: 27px;
+    top: -15px;
+}
+[type="checkbox"]:not(:checked), [type="checkbox"]:checked {
+    position: absolute;
+    opacity: 1;
+    pointer-events: auto;
+    height: 42px;
+    width: 23px;
+    left: 33px;
+    top: 8px;
+}
+form img{
+    height: 35px;
+    width: 27px;
+    position: relative;
+    left: 147px;
+    top: 0px;
+}
+.brauk1{
+    color: #777373;
+    text-decoration-line: line-through;
+    margin-left: 34px;
+    padding: 15px;
+}
+.kata>b{
+    color: #2a2a31;
+    font-size: 15px;
+}
+
+.col.s12.header{
+    background-color: green;
+}
+.menius{
+    margin-left: 213px;
+}

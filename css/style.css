@@ -26,7 +26,7 @@ h6{
 }
 #bitcoinas{
     width: 282px;
-    height: 82px;
+    height: 92px;
     position: relative;
     top: 48px;
     right: -154px;
@@ -226,7 +226,7 @@ ul>h5{
 .col.s12.aprasas{
     height: 63px;
     color:white;
-    background-color: #5a5a5c;
+    background-color: rgb(206, 205, 203);
     width: 100%;
 }
 .aprasas ul li{
@@ -238,7 +238,7 @@ ul>h5{
     padding-left: 196px;
 }
 span{
-    color: rgb(236, 229, 229);
+    color: #00000073;
     margin-left: 5px;
 }
 .service  ul  li {
